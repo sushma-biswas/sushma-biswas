@@ -6,7 +6,7 @@
   - AR
   - Blockchain
 - 📫 How to reach me:
-  - My [LinkedIn](https://www.linkedin.com/in/sushma-biswas-79389878/) profile
+  - You can leave me a note on my [LinkedIn](https://www.linkedin.com/in/sushma-biswas-79389878/) profile & I'll get back asap.
 
 <!---
 sushma-biswas/sushma-biswas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
