@@ -2,8 +2,7 @@
 - I like learning new things. I also like to make things.
 - 🌱 Things I'm learning in 2022:
   - Rust (the programming language, not the game)
-  - AR (Snapchat lenses) 
-  - Blockchain
+  - Blockchain 
 - 📫 How to reach me:
   - You can leave me a note on my [LinkedIn](https://www.linkedin.com/in/sushma-biswas-79389878/) profile.
 
